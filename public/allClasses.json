@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Karate",
+        "instructor": "Sensei Smith",
+        "class_img": "https://i.ibb.co/cvGMkx1/1.jpg",
+        "instructor_img": "https://i.ibb.co/ZVzcr6v/instuctor-img-1.jpg",
+        "instructor_email": "sensei.smith@example.com",
+        "price": 50,
+        "available_seats": 20,
+        "student_admit_number": 25
+    },
+    {
+        "name": "Taekwondo",
+        "instructor": "Master Lee",
+        "class_img": "https://i.ibb.co/Hq3Txr5/2.jpg",
+        "instructor_img": "https://i.ibb.co/V3r6q2v/instuctor-img-2.jpg",
+        "instructor_email": "master.lee@example.com",
+        "price": 60,
+        "available_seats": 10,
+        "student_admit_number": 35
+    },
+    {
+        "name": "Judo",
+        "instructor": "Sensei Johnson",
+        "class_img": "https://i.ibb.co/nsjDkCv/3.jpg",
+        "instructor_img": "https://i.ibb.co/FJbTXhd/instuctor-img-3.jpg",
+        "instructor_email": "sensei.johnson@example.com",
+        "price": 45,
+        "available_seats": 15,
+        "student_admit_number": 32
+    },
+    {
+        "name": "Kung Fu",
+        "instructor": "Sifu Chen",
+        "class_img": "https://i.ibb.co/0ywN3rT/4.jpg",
+        "instructor_img": "https://i.ibb.co/xJcRZRy/instuctor-img-4.jpg",
+        "instructor_email": "sifu.chen@example.com",
+        "price": 55,
+        "available_seats": 25,
+        "student_admit_number": 40
+    },
+    {
+        "name": "Brazilian Jiu-Jitsu",
+        "instructor": "Professor Silva",
+        "class_img": "https://i.ibb.co/19xnzBv/5.jpg",
+        "instructor_img": "https://i.ibb.co/0cXS39H/instuctor-img-5.webp",
+        "instructor_email": "prof.silva@example.com",
+        "price": 65,
+        "available_seats": 30,
+        "student_admit_number": 15
+    },
+    {
+        "name": "Muay Thai",
+        "instructor": "Kru Thompson",
+        "class_img": "https://i.ibb.co/drgtBfJ/5-1.jpg",
+        "instructor_img": "https://i.ibb.co/wQ0N66t/instuctor-img-6.jpg",
+        "instructor_email": "kru.thompson@example.com",
+        "price": 55,
+        "available_seats": 20,
+        "student_admit_number": 17
+    },
+    {
+        "name": "Aikido",
+        "instructor": "Sensei Tanaka",
+        "class_img": "https://i.ibb.co/BrpW3sS/9.jpg",
+        "instructor_img": "https://i.ibb.co/V3WNb0S/instuctor-img-7.jpg",
+        "instructor_email": "sensei.tanaka@example.com",
+        "price": 50,
+        "available_seats": 10,
+        "student_admit_number": 30
+    },
+    {
+        "name": "Capoeira",
+        "instructor": "Mestre Santos",
+        "class_img": "https://i.ibb.co/BrpW3sS/9.jpg",
+        "instructor_img": "https://i.ibb.co/V3WNb0S/instuctor-img-7.jpg",
+        "instructor_email": "mestre.santos@example.com",
+        "price": 40,
+        "available_seats": 15,
+        "student_admit_number": 11
+    },
+    {
+        "name": "Kickboxing",
+        "instructor": "Coach Davis",
+        "class_img": "https://i.ibb.co/ryyNrvz/12.jpg",
+        "instructor_img": "https://i.ibb.co/V3r6q2v/instuctor-img-2.jpg",
+        "instructor_email": "coach.davis@example.com",
+        "price": 60,
+        "available_seats": 12,
+        "student_admit_number": 10
+    },
+    {
+        "name": "Krav Maga",
+        "instructor": "Instructor Cohen",
+        "class_img": "https://i.ibb.co/f1y4tc3/11.jpg",
+        "instructor_img": "https://i.ibb.co/9rGKczC/10.jpg",
+        "instructor_email": "instructor.cohen@example.com",
+        "price": 65,
+        "available_seats": 18,
+        "student_admit_number": 14
+    }
+]
